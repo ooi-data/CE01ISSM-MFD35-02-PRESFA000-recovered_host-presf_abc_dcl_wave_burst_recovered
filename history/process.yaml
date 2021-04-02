@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSM-MFD35-02-PRESFA000-recovered_host-presf_abc_dcl_wave_burst_recovered
 data_stream: CE01ISSM-MFD35-02-PRESFA000-recovered_host-presf_abc_dcl_wave_burst_recovered
 end_date: '2014-05-10T18:59:08.680Z'
-last_updated: '2021-04-02T12:25:09.862990Z'
+last_updated: '2021-04-02T12:28:23.884928'
 start_date: '2014-04-17T20:45:00.000Z'
-status: pending
+status: success
